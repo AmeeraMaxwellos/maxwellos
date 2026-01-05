@@ -21,6 +21,7 @@
 <meta name="Publisher" content="Maxwell Online Services" />
 <meta name="YahooSeeker" content="INDEX, FOLLOW">
 <meta name="googlebot" content="index,follow" />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
 
     <link rel="shortcut icon" type="image/png" href="./assets/images/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
