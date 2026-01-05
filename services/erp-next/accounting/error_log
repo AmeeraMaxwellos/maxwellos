@@ -1,0 +1,63 @@
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  include(../../common/header.php): Failed to open stream: No such file or directory in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 1
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  include(): Failed opening '../../common/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 1
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 4
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 20
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 34
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 53
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 72
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 92
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 111
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 130
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 149
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 168
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 187
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 206
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 225
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 244
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 285
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 316
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 359
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  include(../../common/footer.php): Failed to open stream: No such file or directory in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 384
+[18-Oct-2024 01:43:17 UTC] PHP Warning:  include(): Failed opening '../../common/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 384
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  include(../../common/header.php): Failed to open stream: No such file or directory in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 1
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  include(): Failed opening '../../common/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 1
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 4
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 20
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 34
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 53
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 72
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 92
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 111
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 130
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 149
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 168
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 187
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 206
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 225
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 244
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 285
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 316
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 359
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  include(../../common/footer.php): Failed to open stream: No such file or directory in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 384
+[18-Oct-2024 01:44:06 UTC] PHP Warning:  include(): Failed opening '../../common/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 384
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  include(../../common/header.php): Failed to open stream: No such file or directory in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 1
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  include(): Failed opening '../../common/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 1
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 4
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 20
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 34
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 53
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 72
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 92
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 111
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 130
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 149
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 168
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 187
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 206
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 225
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 244
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 285
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 316
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 359
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  include(../../common/footer.php): Failed to open stream: No such file or directory in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 384
+[18-Oct-2024 01:44:11 UTC] PHP Warning:  include(): Failed opening '../../common/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/karthm4k/public_html/projects/maxwellosV2/services/erp-next/accounting/index.php on line 384

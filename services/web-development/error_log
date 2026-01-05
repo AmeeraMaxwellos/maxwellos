@@ -1,0 +1,5 @@
+[01-Oct-2024 10:25:38 UTC] PHP Warning:  include(../common/header.php): Failed to open stream: No such file or directory in /home2/karthm4k/public_html/projects/maxwellosV2/services/web-development/index.php on line 1
+[01-Oct-2024 10:25:38 UTC] PHP Warning:  include(): Failed opening '../common/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/karthm4k/public_html/projects/maxwellosV2/services/web-development/index.php on line 1
+[01-Oct-2024 10:25:38 UTC] PHP Warning:  Undefined variable $BASE_URL in /home2/karthm4k/public_html/projects/maxwellosV2/services/web-development/index.php on line 4
+[01-Oct-2024 10:25:38 UTC] PHP Warning:  include(../common/footer.php): Failed to open stream: No such file or directory in /home2/karthm4k/public_html/projects/maxwellosV2/services/web-development/index.php on line 7
+[01-Oct-2024 10:25:38 UTC] PHP Warning:  include(): Failed opening '../common/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/karthm4k/public_html/projects/maxwellosV2/services/web-development/index.php on line 7

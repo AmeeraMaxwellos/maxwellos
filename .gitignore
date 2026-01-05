@@ -1,0 +1,28 @@
+# Dependencies
+vendor/
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache
+cache/
+tmp/
+
+# pdf files
+assets/uploads/*.pdf

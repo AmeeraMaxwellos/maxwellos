@@ -1,0 +1,6 @@
+[13-Oct-2024 02:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_repalce() in /home2/karthm4k/public_html/projects/maxwellosV2/common/config.php:8
+Stack trace:
+#0 /home2/karthm4k/public_html/projects/maxwellosV2/common/header.php(1): include()
+#1 /home2/karthm4k/public_html/projects/maxwellosV2/index.php(1): include('/home2/karthm4k...')
+#2 {main}
+  thrown in /home2/karthm4k/public_html/projects/maxwellosV2/common/config.php on line 8
