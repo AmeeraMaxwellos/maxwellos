@@ -90,7 +90,7 @@ For any questions or inquiries regarding these terms and conditions, please cont
 </main><br/>
 <footer>
 <div class="bottom row-flex m-col-flex jc-sb">
-<p>Copyright 2024 © Maxwell Online Services.</p>
+<p>Copyright <?php echo date('Y'); ?>  © Maxwell Online Services.</p>
 <div class="row-flex m-col-flex jc-e">
     </footer>
 </body>

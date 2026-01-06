@@ -189,7 +189,7 @@ if(isset($PAGE) && $PAGE=='contact-us'){
 </div>
 </div>
 <div class="bottom row-flex m-col-flex jc-sb">
-<p>Copyright 2024 © Maxwell Online Services.</p>
+<p>Copyright <?php echo date('Y'); ?>  © Maxwell Online Services.</p>
 <div class="row-flex m-col-flex jc-e">
     <!--<a href="/terms-and-conditions">Terms and Conditions</a>-->
     <a href="<?php echo $BASE_URL;?>privacy">Privacy and Policy</a>
