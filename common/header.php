@@ -23,6 +23,24 @@
 <meta name="googlebot" content="index,follow" />
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
 
+
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="MaxwellOS: IT Company in Qatar | Marketing Agency in Qatar">
+<meta property="og:description" content="MaxwellOS delivers end-to-end IT solutions in Qatar, including ERP systems, web design, mobile app development, digital marketing, branding & PRO services.">
+<meta property="og:url" content="https://www.maxwellos.com/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.maxwellos.com/assets/images/logo.webp">
+<meta property="og:image:alt" content="MaxwellOS Logo">
+<meta property="og:site_name" content="MaxwellOS">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter Card Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="MaxwellOS: IT Company in Qatar | Marketing Agency in Qatar">
+<meta name="twitter:description" content="MaxwellOS delivers end-to-end IT solutions in Qatar, including ERP systems, web design, mobile app development, digital marketing, branding & PRO services.">
+<meta name="twitter:image" content="https://www.maxwellos.com/assets/images/logo.webp">
+
+
     <link rel="shortcut icon" type="image/png" href="./assets/images/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
