@@ -1,4 +1,11 @@
-<?php  include "../common/header.php"; ?>
+<?php  
+$pageTitle = "MaxwellOS – Leading IT company in Qatar | Reliable Tech & Support";
+$metaDescription = "MaxwellOS delivers IT and digital solutions in Qatar, including digital marketing, web and app development, SEO, SMM, branding, e-commerce, PRO and ERP services.";
+$canonicalUrl = "https://www.maxwellos.com/our-team/";
+
+include "../common/header.php"; ?>
+
+
 <section id="page-banner" class="no-pad">
 	<h1 class="page-title">Our Team</h1>
     <img src="<?php echo $BASE_URL;?>/assets/images/team/OurTeamcopy.jpg" alt="" height="1920" width="600"/>
