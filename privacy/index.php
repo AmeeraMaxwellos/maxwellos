@@ -1,4 +1,6 @@
-<?php include 'config.php';?>
+<?php 
+include '../common/config.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,16 +8,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maxwell Online Service</title>
-    <link rel="shortcut icon" type="image/png" href="../assets/images/favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="<?php echo $BASE_URL;?>./assets/images/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@300..900&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="<?php echo $BASE_URL;?>../assets/styles/maxwellos.css">
-    <link rel="stylesheet" href="<?php echo $BASE_URL;?>../assets/styles/owl.carousel.min.css">
-    <link rel="stylesheet" href="<?php echo $BASE_URL;?>../assets/styles/owl.theme.default.min.css">
+    <link rel="stylesheet" href="<?php echo $BASE_URL;?>./assets/styles/maxwellos.css">
+    <link rel="stylesheet" href="<?php echo $BASE_URL;?>./assets/styles/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?php echo $BASE_URL;?>./assets/styles/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@24.6.0/build/css/intlTelInput.css">
-    <link rel="icon" type="image/png" sizes="50x50" href="<?php echo $BASE_URL;?>../assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="50x50" href="<?php echo $BASE_URL;?>./assets/images/favicon.png">
 </head>
 
 <body>
@@ -23,7 +25,7 @@
         <div class="row-flex ai-c jc-sb">
             <div class="left row-flex ai-c jc-s">
                 <div class="logo">
-                    <a href="<?php echo $BASE_URL;?>../"><img src="<?php echo $BASE_URL;?>../assets/images/logo.webp" alt="logo" height="100" width="341" /></a>
+                    <a href="<?php echo $BASE_URL;?>../"><img src="<?php echo $BASE_URL;?>./assets/images/logo.webp" alt="logo" height="100" width="341" /></a>
                 </div>
             </div>
          
