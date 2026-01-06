@@ -1,8 +1,7 @@
 <?php  
 
-$pageTitle = "Best PRO Service in Qatar | Reliable Business Support by Maxwellos"; 
-$metaDescription = "Maxwellos offers the best PRO services in Qatar, ensuring efficient document processing, government liaison, and business support for smooth operations.
-"; 
+$pageTitle = "PRO Services in Qatar | Company Formation & License Renewal"; 
+$metaDescription = "Need PRO services in Qatar? MaxwellOS handles reliable company formation, trade license renewal, visa & residency permits, government liaison and Arabic translation."; 
 
 
 include "../../common/header.php";

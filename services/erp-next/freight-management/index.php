@@ -1,6 +1,6 @@
 <?php 
-$pageTitle = "Freight Management Software | Optimize Logistics with Maxwellos  ";
-$metaDescription = "Maxwellos provides advanced freight management software to streamline shipping, track deliveries, and enhance logistics efficiency for your business.";
+$pageTitle = "Freight Management Software | Best ERP Software in Qatar";
+$metaDescription = "Are you looking for efficient freight management ERP in Qatar? MaxwellOS helps you manage logistics operations smoothly in one streamlined system. Visit for more.";
 
 
 include "../../../common/header.php"; ?>

@@ -1,6 +1,6 @@
 <?php
-$pageTitle = "CRM System | Advanced CRM Software by Maxwellos";
-$metaDescription = "Maxwellos provides cutting-edge CRM software to manage customer relationships, boost sales, and enhance business growth seamlessly.";
+$pageTitle = "Best ERP Software in Qatar | CRM Software – MaxwellOS";
+$metaDescription = "Looking for the best CRM software in Qatar? MaxwellOS helps you manage leads, sales pipelines, customer and interactions easily with an efficient CRM system.";
 
 include "../../../common/header.php"; ?>
 <section id="page-banner" class="no-pad">

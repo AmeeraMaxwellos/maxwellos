@@ -1,6 +1,6 @@
 <?php  
-$pageTitle = "No.1 Software Company & Best ERP Software in qatar"; 
-$metaDescription = "Maxwellos is a leading software company in Qatar, specializing in custom software development and ERPSoftware in qatar."; 
+$pageTitle = "Best ERP Software in Qatar | ERPNext Solutions – MaxwellOS"; 
+$metaDescription = "MaxwellOS is a leading IT company in Qatar, delivering the best ERP software in Qatar to streamline business operations, improve efficiency, and support digital growth."; 
 
 include "../../common/header.php"; 
 

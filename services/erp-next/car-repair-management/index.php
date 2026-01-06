@@ -1,7 +1,7 @@
 <?php  
 
-$pageTitle = "Car Repair Management Software | Streamline Auto Services with Maxwellos";
-$metaDescription = "Maxwellos offers powerful car repair management software to manage service orders, track repairs, and improve customer satisfaction in auto shops."; 
+$pageTitle = "Car Repair Management with Best ERP Software in Qatar";
+$metaDescription = "MaxwellOS offers powerful car repair management software to manage service orders, track repairs, and improve customer satisfaction in auto shops."; 
 
 
 include "../../../common/header.php"; ?>

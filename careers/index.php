@@ -1,4 +1,10 @@
-<?php  include "../common/header.php"; ?>
+<?php  
+$pageTitle = "Careers at MaxwellOS | Join a Leading IT Company in Qatar";
+$metaDescription = "Explore career opportunities at MaxwellOS, a leading IT company in Qatar offering IT solutions, software development, and marketing services. Build your future with us.";
+
+
+include "../common/header.php"; ?>
+
 <section id="page-banner" class="no-pad">
 	<h1 class="page-title" style="color: black !important;">Careers</h1>
     <img src="<?php echo $BASE_URL;?>/assets/images/careers.jpg" alt=""/>

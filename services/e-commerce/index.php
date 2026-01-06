@@ -1,6 +1,6 @@
 <?php 
-$pageTitle = "E-Commerce Services | Boost Your Online Store with Maxwellos"; 
-$metaDescription = "Maxwellos provides comprehensive e-commerce services to help you build, launch, and grow a successful online store."; 
+$pageTitle = "Ecommerce Development Company in Qatar | MaxwellOS"; 
+$metaDescription = "MaxwellOS builds powerful eCommerce websites and online stores in Qatar, offering custom development, secure payment integration, and complete digital solutions."; 
 
 
 include "../../common/header.php"; 

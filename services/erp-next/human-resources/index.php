@@ -1,6 +1,6 @@
 <?php  
-$pageTitle = "HR Software in Qatar | Efficient Solutions by Maxwellos";
-$metaDescription = "Maxwellos offers advanced HR software in Qatar to simplify payroll, recruitment, and employee management, ensuring smooth and efficient operations.";
+$pageTitle = "HR ERP Software | Best ERP Software in Qatar – MaxwellOS";
+$metaDescription = "Searching for HR ERP software in Qatar? MaxwellOS streamlines payroll, attendance, recruitment, and employee data so your HR team can work faster and more efficiently.";
 
 include "../../../common/header.php"; ?>
 <section id="page-banner" class="no-pad">

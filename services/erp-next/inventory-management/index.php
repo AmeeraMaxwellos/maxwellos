@@ -1,7 +1,7 @@
 <?php
 
-$pageTitle = "Inventory Management Software | Smart Solutions by Maxwellos";
-$metaDescription = "Maxwellos offers efficient inventory management software to track stock, reduce wastage, and optimize your supply chain effortlessly.";
+$pageTitle = "Best ERP Software in Qatar | Inventory Management – MaxwellOS";
+$metaDescription = "Are you looking for the best inventory management ERP in Qatar? MaxwellOS helps you track stock, manage purchases and streamline operations efficiently.";
 
 include "../../../common/header.php"; ?>
 

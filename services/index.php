@@ -1,4 +1,11 @@
-<?php  include "../common/header.php"; ?>
+<?php 
+
+$pageTitle = "Leading Marketing Agency  & IT Cmpany in Qatar | Our Service";
+$metaDescription = "Grow your brand with MaxwellOS’s comprehensive IT solutions in Qatar, including web development, mobile apps, ERP systems, branding, marketing, PRO services, and more.";
+
+include "../common/header.php";
+
+?>
 <section id="page-banner" class="no-pad">
 
     <!-- <img src="<?php echo $BASE_URL;?>/assets/images/service.jpg" alt=""/> -->

@@ -1,7 +1,7 @@
 <?php
 
-$pageTitle = "Project Management Software | Efficient Solutions by Maxwellos  ";
-$metaDescription = "Maxwellos provides smart project management software to organize tasks, track progress, and ensure successful project completion with ease.";
+$pageTitle = "Project Management Software | Best ERP Software in Qatar";
+$metaDescription = "Are you looking for the best project management software in Qatar? MaxwellOS helps you manage tasks, deadlines, and project progress efficiently in one ERP system.";
 
 
 include "../../../common/header.php"; ?>

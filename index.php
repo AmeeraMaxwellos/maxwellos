@@ -1,4 +1,13 @@
-<?php  include "common/header.php"; ?>
+<?php  
+
+$pageTitle = "MaxwellOS: IT Company in Qatar | Marketing Agency in Qatar";
+$metaDescription = "MaxwellOS delivers end-to-end IT solutions in Qatar, including ERP systems, web design, mobile app development, digital marketing, branding & PRO services.";
+
+include "common/header.php"; 
+
+?>
+
+
 
         <section id="banner" class="no-pad">
             <!-- <div class="img-group">
@@ -13,29 +22,7 @@
                 </div>
             </div>
 
-            <!--<div class="text-container row-flex same ai-c">-->
-            <!--    <div class="left"></div>-->
-            <!--    <div class="right col-flex">-->
-            <!--        <div>-->
-            <!--            <img class="img-responsive" src="./assets/images/bluewhiteCrop.webp" alt="crop-logo" />-->
-            <!--            <h2>Streamline Your Business Operations..</h2>-->
-            <!--            <div class="fliptext-block">-->
-            <!--                <span id="flipper" class='flip'>-->
-            <!--                    <span class="step step0 set">Accounting</span>-->
-            <!--                    <span class="step step1">Human Resource</span>-->
-            <!--                    <span class="step step2">CRM</span>-->
-            <!--                    <span class="step step3">Inventory Management</span>-->
-            <!--                    <span class="step step4">Sales and  Purchasing</span>-->
-            <!--                    <span class="step step5">Project Management</span>-->
-            <!--                    <span class="step step6">Manufacturing</span>-->
-            <!--                    <span class="step step7">Healthcare</span>-->
-            <!--                    <span class="step step8">Education</span>-->
-            <!--                    <span class="step step9">Non-Profit</span>-->
-            <!--                </span>-->
-            <!--            </div>-->
-            <!--        </div>-->
-            <!--    </div>-->
-            <!--</div>-->
+         
         </section>
         <section id="services" class="col-flex gap-3">
             <div class="row-flex ai-c jc-sb section-title-block">
@@ -263,99 +250,5 @@
                 </div>
             </div>
         </section>
-        <!-- <section id="testimonials">
-            <div class="col-flex gap-3">
-                <div class="row-flex ai-c jc-sb section-title-block">
-                    <h2>Client <br><strong>SAYS!</strong></h2>
-                </div>
-                <div class="row-flex" class="client-says-block">
-                    <div class="client-says owl-theme owl-carousel" id="client-says">
-                        <div class="item">
-                            <div class="card col-flex">
-                                <div class="image-block">
-                                    <img src="./assets/images/quote.webp" alt="testimonials" />
-                                </div>
-                                <div class="text-block col-flex">
-                                    <div class="message">
-                                        <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since the
-                                            1500s, when an unknown printer took a galley of type and scrambled it to
-                                            make a type specimen book.
-                                        </p>
-                                    </div>
-                                    <div class="message-info">
-                                        <p class="name">John Smith</p>
-                                        <p class="designation">Designer</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="card col-flex">
-                                <div class="image-block">
-                                    <img src="./assets/images/quote.webp" alt="testimonials" />
-                                </div>
-                                <div class="text-block col-flex">
-                                    <div class="message">
-                                        <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since the
-                                            1500s, when an unknown printer took a galley of type and scrambled it to
-                                            make a type specimen book.
-                                        </p>
-                                    </div>
-                                    <div class="message-info">
-                                        <p class="name">John Smith</p>
-                                        <p class="designation">Designer</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="card col-flex">
-                                <div class="image-block">
-                                    <img src="./assets/images/quote.webp" alt="testimonials" />
-                                </div>
-                                <div class="text-block col-flex">
-                                    <div class="message">
-                                        <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since the
-                                            1500s, when an unknown printer took a galley of type and scrambled it to
-                                            make a type specimen book.
-                                        </p>
-                                    </div>
-                                    <div class="message-info">
-                                        <p class="name">John Smith</p>
-                                        <p class="designation">Designer</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="card col-flex">
-                                <div class="image-block">
-                                    <img src="./assets/images/quote.webp" alt="testimonials" />
-                                </div>
-                                <div class="text-block col-flex">
-                                    <div class="message">
-                                        <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since the
-                                            1500s, when an unknown printer took a galley of type and scrambled it to
-                                            make a type specimen book.
-                                        </p>
-                                    </div>
-                                    <div class="message-info">
-                                        <p class="name">John Smith</p>
-                                        <p class="designation">Designer</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
+       
 <?php  include "common/footer.php"; ?>

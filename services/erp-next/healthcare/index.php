@@ -1,6 +1,6 @@
 <?php 
-$pageTitle = "ERP Software for Healthcare Industry | Maxwellos Solutions  ";
-$metaDescription = "Maxwellos delivers tailored ERP software for the healthcare industry, streamlining patient management, inventory, billing, and operations efficiently.";
+$pageTitle = "Healthcare ERP Software | Best ERP Software in Qatar";
+$metaDescription = "Are you looking for the best healthcare ERP software in Qatar? MaxwellOS helps hospitals and clinics manage patients, appointments, and records in one efficient system.";
 
 include "../../../common/header.php"; ?>
 

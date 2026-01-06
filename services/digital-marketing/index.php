@@ -1,9 +1,8 @@
 <?php  
 
 
-$pageTitle = "Digital Marketing in Qatar | Grow Your Brand with Maxwellos"; 
-$metaDescription = "Maxwellos offers expert digital marketing services in Qatar to enhance brand visibility, drive traffic, and increase conversions for your business.
-"; 
+$pageTitle = "Digital Marketing Agency in Qatar | MaxwellOS"; 
+$metaDescription = "Looking for a reliable Digital Marketing Agency in Qatar? MaxwellOS helps businesses boost online visibility, traffic, and conversions with expert marketing solutions."; 
 
 include "../../common/header.php"; 
 

@@ -1,7 +1,7 @@
 <?php  
 
-$pageTitle = "#1 Manufacturing Software | Optimize Production with Maxwellos";
-$metaDescription = "Maxwellos offers advanced manufacturing software to streamline production, manage resources, and boost efficiency for your business growth.";
+$pageTitle = "Best ERP Software in Qatar | Manufacturing Software";
+$metaDescription = "Are you looking for the best manufacturing ERP in Qatar? MaxwellOS helps you manage production, work orders, and scheduling with a simple and efficient ERP system.";
 
 
 include "../../../common/header.php"; ?>

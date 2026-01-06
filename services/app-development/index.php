@@ -1,7 +1,6 @@
 <?php 
-$pageTitle = "App Development Qatar | Custom Mobile Solutions by Maxwellos"; 
-$metaDescription = "Maxwellos offers expert app development in Qatar, creating custom mobile solutions to enhance your business and engage users.
-"; 
+$pageTitle = "App Development Company in Qatar | Custom Mobile App Development"; 
+$metaDescription = "MaxwellOS is a leading app development company in Qatar, creating custom mobile apps that enhance user experience and drive business growth across all platforms."; 
 
 include "../../common/header.php"; 
 ?>

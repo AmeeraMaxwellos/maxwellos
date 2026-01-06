@@ -1,8 +1,7 @@
 <?php  
 
-$pageTitle = "Branding Company in Qatar | Creative Solutions by Maxwellos"; 
-$metaDescription = "Maxwellos, a leading branding company in Qatar, provides innovative brand solutions to help your business stand out and succeed.
-"; 
+$pageTitle = "Professional Branding Services in Qatar | MaxwellOS"; 
+$metaDescription = "MaxwellOS provides professional branding services in Qatar, offering brand logo design, visual design, and complete creative solutions to build a strong brand presence."; 
 
 include "../../common/header.php"; ?>
 <section id="page-banner" class="no-pad">

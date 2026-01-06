@@ -1,7 +1,7 @@
 <?php  
 
-$pageTitle = "No.1 Accounting Software | Simplify Your Finances with Maxwellos";
-$metaDescription = "Maxwellos offers advanced accounting software to streamline your financial management. Track expenses, generate reports, and ensure accuracy effortlessly."; 
+$pageTitle = "Best ERP Software in Qatar | Accounting ERP – MaxwellOS";
+$metaDescription = "Tired of searching for the right Accounting ERP in Qatar? MaxwellOS delivers efficient tools for invoicing, expenses, payroll, reporting, and financial compliance."; 
 include "../../../common/header.php"; 
 ?>
 <section id="page-banner" class="no-pad">
