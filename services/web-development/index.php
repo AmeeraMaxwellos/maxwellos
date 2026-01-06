@@ -2,6 +2,7 @@
 
 $pageTitle = "Web Development Company Qatar | Website Design Company in Doha"; 
 $metaDescription = "Looking for a reliable Digital Marketing Agency in Qatar? MaxwellOS helps businesses boost online visibility, traffic, and conversions with expert marketing solutions."; 
+$canonicalUrl = "https://www.maxwellos.com/services/web-development/";
 
 
 include "../../common/header.php"; 

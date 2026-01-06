@@ -2,6 +2,7 @@
 
 $pageTitle = "Professional Branding Services in Qatar | MaxwellOS"; 
 $metaDescription = "MaxwellOS provides professional branding services in Qatar, offering brand logo design, visual design, and complete creative solutions to build a strong brand presence."; 
+$canonicalUrl = "https://www.maxwellos.com/services/branding/";
 
 include "../../common/header.php"; ?>
 <section id="page-banner" class="no-pad">

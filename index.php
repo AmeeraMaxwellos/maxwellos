@@ -2,7 +2,7 @@
 
 $pageTitle = "MaxwellOS: IT Company in Qatar | Marketing Agency in Qatar";
 $metaDescription = "MaxwellOS delivers end-to-end IT solutions in Qatar, including ERP systems, web design, mobile app development, digital marketing, branding & PRO services.";
-
+$canonicalUrl = "https://www.maxwellos.com/";
 include "common/header.php"; 
 
 ?>

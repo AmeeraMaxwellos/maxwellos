@@ -1,6 +1,7 @@
 <?php 
 $pageTitle = "Ecommerce Development Company in Qatar | MaxwellOS"; 
 $metaDescription = "MaxwellOS builds powerful eCommerce websites and online stores in Qatar, offering custom development, secure payment integration, and complete digital solutions."; 
+$canonicalUrl = "https://www.maxwellos.com/services/e-commerce/";
 
 
 include "../../common/header.php"; 

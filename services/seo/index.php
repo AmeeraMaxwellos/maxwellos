@@ -4,6 +4,8 @@
 $pageTitle = "SEO Services in Qatar | Top SEO Company – MaxwellOS"; 
 $metaDescription = "MaxwellOS provides expert SEO services in Qatar, helping businesses improve rankings, boost traffic, and grow online visibility with effective strategies."; 
 
+$canonicalUrl = "https://www.maxwellos.com/services/seo/";
+
 include "../../common/header.php"; 
 
 ?>

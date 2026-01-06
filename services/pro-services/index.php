@@ -3,6 +3,7 @@
 $pageTitle = "PRO Services in Qatar | Company Formation & License Renewal"; 
 $metaDescription = "Need PRO services in Qatar? MaxwellOS handles reliable company formation, trade license renewal, visa & residency permits, government liaison and Arabic translation."; 
 
+$canonicalUrl = "https://www.maxwellos.com/services/pro-services/";
 
 include "../../common/header.php";
 

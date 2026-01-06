@@ -1,6 +1,7 @@
 <?php  
 $pageTitle = "Careers at MaxwellOS | Join a Leading IT Company in Qatar";
 $metaDescription = "Explore career opportunities at MaxwellOS, a leading IT company in Qatar offering IT solutions, software development, and marketing services. Build your future with us.";
+$canonicalUrl = "https://www.maxwellos.com/careers/";
 
 
 include "../common/header.php"; ?>

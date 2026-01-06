@@ -1,6 +1,8 @@
 <?php 
 $pageTitle = "App Development Company in Qatar | Custom Mobile App Development"; 
 $metaDescription = "MaxwellOS is a leading app development company in Qatar, creating custom mobile apps that enhance user experience and drive business growth across all platforms."; 
+$canonicalUrl = "https://www.maxwellos.com/services/app-development/";
+
 
 include "../../common/header.php"; 
 ?>

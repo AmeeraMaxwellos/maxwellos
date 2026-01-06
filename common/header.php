@@ -40,7 +40,8 @@
 <meta name="twitter:description" content="MaxwellOS delivers end-to-end IT solutions in Qatar, including ERP systems, web design, mobile app development, digital marketing, branding & PRO services.">
 <meta name="twitter:image" content="https://www.maxwellos.com/assets/images/logo.webp">
 
-
+<!-- Canonical URL -->
+<link rel="canonical" href="<?php echo isset($canonicalUrl) ? $canonicalUrl : 'https://www.maxwellos.com/'; ?>">
     <link rel="shortcut icon" type="image/png" href="./assets/images/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
