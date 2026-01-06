@@ -2,6 +2,7 @@
 
 $pageTitle = "Car Repair Management with Best ERP Software in Qatar";
 $metaDescription = "MaxwellOS offers powerful car repair management software to manage service orders, track repairs, and improve customer satisfaction in auto shops."; 
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/car-repair-management/";
 
 
 include "../../../common/header.php"; ?>

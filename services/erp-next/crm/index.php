@@ -1,6 +1,7 @@
 <?php
 $pageTitle = "Best ERP Software in Qatar | CRM Software – MaxwellOS";
 $metaDescription = "Looking for the best CRM software in Qatar? MaxwellOS helps you manage leads, sales pipelines, customer and interactions easily with an efficient CRM system.";
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/crm/";
 
 include "../../../common/header.php"; ?>
 <section id="page-banner" class="no-pad">

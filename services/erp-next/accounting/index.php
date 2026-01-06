@@ -2,6 +2,8 @@
 
 $pageTitle = "Best ERP Software in Qatar | Accounting ERP – MaxwellOS";
 $metaDescription = "Tired of searching for the right Accounting ERP in Qatar? MaxwellOS delivers efficient tools for invoicing, expenses, payroll, reporting, and financial compliance."; 
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/accounting/";
+
 include "../../../common/header.php"; 
 ?>
 <section id="page-banner" class="no-pad">

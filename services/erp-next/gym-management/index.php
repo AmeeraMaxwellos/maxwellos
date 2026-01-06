@@ -1,6 +1,7 @@
 <?php  
 $pageTitle = "Gym Management with best ERP Software in Qatar";
 $metaDescription = "MaxwellOS provides efficient gym management software to manage memberships, bookings, payments, and schedules, ensuring smooth operations for your fitness center."; 
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/gym-management/";
 
 
 include "../../../common/header.php"; ?>

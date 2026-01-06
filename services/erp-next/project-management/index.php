@@ -2,6 +2,7 @@
 
 $pageTitle = "Project Management Software | Best ERP Software in Qatar";
 $metaDescription = "Are you looking for the best project management software in Qatar? MaxwellOS helps you manage tasks, deadlines, and project progress efficiently in one ERP system.";
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/project-management/";
 
 
 include "../../../common/header.php"; ?>

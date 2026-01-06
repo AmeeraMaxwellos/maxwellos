@@ -2,6 +2,7 @@
 
 $pageTitle = "Best ERP Software in Qatar | Manufacturing Software";
 $metaDescription = "Are you looking for the best manufacturing ERP in Qatar? MaxwellOS helps you manage production, work orders, and scheduling with a simple and efficient ERP system.";
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/manufacturing/";
 
 
 include "../../../common/header.php"; ?>

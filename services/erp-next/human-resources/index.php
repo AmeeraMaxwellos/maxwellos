@@ -1,6 +1,7 @@
 <?php  
 $pageTitle = "HR ERP Software | Best ERP Software in Qatar – MaxwellOS";
 $metaDescription = "Searching for HR ERP software in Qatar? MaxwellOS streamlines payroll, attendance, recruitment, and employee data so your HR team can work faster and more efficiently.";
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/human-resources/";
 
 include "../../../common/header.php"; ?>
 <section id="page-banner" class="no-pad">

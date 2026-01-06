@@ -2,6 +2,7 @@
 
 $pageTitle = "Best ERP Software in Qatar | Sales and Purchasing ERP";
 $metaDescription = "Are you looking for the best Sales and Purchasing ERP in Qatar? MaxwellOS helps you manage quotations, orders, pricing, and approvals with a streamlined ERP system.";
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/sales-and-purchasing/";
 
 include "../../../common/header.php"; ?>
 

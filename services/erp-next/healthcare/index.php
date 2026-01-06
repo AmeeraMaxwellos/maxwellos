@@ -1,6 +1,7 @@
 <?php 
 $pageTitle = "Healthcare ERP Software | Best ERP Software in Qatar";
 $metaDescription = "Are you looking for the best healthcare ERP software in Qatar? MaxwellOS helps hospitals and clinics manage patients, appointments, and records in one efficient system.";
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/healthcare/";
 
 include "../../../common/header.php"; ?>
 

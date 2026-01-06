@@ -2,6 +2,7 @@
 
 $pageTitle = "Best ERP Software in Qatar | Inventory Management – MaxwellOS";
 $metaDescription = "Are you looking for the best inventory management ERP in Qatar? MaxwellOS helps you track stock, manage purchases and streamline operations efficiently.";
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/inventory-management/";
 
 include "../../../common/header.php"; ?>
 

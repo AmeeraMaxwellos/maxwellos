@@ -1,6 +1,7 @@
 <?php  
 $pageTitle = "Best ERP Software in Qatar | Education ERP - MaxwellOS";
 $metaDescription = "Looking for the best ERP software in Qatar for schools? MaxwellOS simplifies student records, attendance, fees, and exams with an easy, efficient Education ERP system.";
+$canonicalUrl = "https://www.maxwellos.com/services/erp-next/education/";
 
 include "../../../common/header.php"; ?>
 <section id="page-banner" class="no-pad">
