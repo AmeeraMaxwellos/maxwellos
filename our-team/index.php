@@ -24,39 +24,7 @@ include "../common/header.php"; ?>
 	            <p>CEO</p>
 	        </div>
         </div>
-                <div class="card">
-            <div class="image-block">
-                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Adil.jpg" alt="Adil"  height="600" width="500"/>
-            </div>
-            <div class="content-block">
-            
-	            <h3>Adil Muhammed</h3>
-	            <p>Sales Manager</p>
-	        </div>
-        </div>
-        
-                <div class="card">
-            <div class="image-block">
-                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Santhosh.jpg" alt="Santhosh"  height="600" width="500"/>
-            </div>
-            <div class="content-block">
-            
-	            <h3>Santhosh</h3>
-	            <p>Senior Developer</p>
-	        </div>
-        </div>
-        
-                <div class="card">
-            <div class="image-block">
-                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Ameera.jpg" alt="Ameera"  height="600" width="500"/>
-            </div>
-            <div class="content-block">
-            
-	            <h3>Ameera CC</h3>
-	            <p>Project Manager</p>
-	        </div>
-        </div>
-        
+
                 <div class="card">
             <div class="image-block">
                 <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Noufal.jpg" alt="Noufal"  height="600" width="500"/>
@@ -64,7 +32,30 @@ include "../common/header.php"; ?>
             <div class="content-block">
             
 	            <h3>Noufal Nelliyullathil</h3>
-	            <p>Web Developer</p>
+	            <p>Managing Director</p>
+	        </div>
+        </div>
+
+                <div class="card">
+            <div class="image-block">
+                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Ameera.jpg" alt="Ameera"  height="600" width="500"/>
+            </div>
+            <div class="content-block">
+            
+	            <h3>Ameera CC</h3>
+	            <p>Tech Project Manager</p>
+	        </div>
+        </div>
+         
+                <div class="card">
+            <div class="image-block">
+                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Rashid.jpg" alt="Rashid"  height="600" width="500"/>
+            </div>
+            
+            <div class="content-block">
+            
+	            <h3>Muhammed Rashid</h3>
+	            <p>Marketing Associate</p>
 	        </div>
         </div>
         
@@ -79,16 +70,7 @@ include "../common/header.php"; ?>
 	        </div>
         </div>
         
-                <div class="card">
-            <div class="image-block">
-                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Musadhique.jpg" alt="Musadhique"  height="600" width="500"/>
-            </div>
-            <div class="content-block">
-            
-	            <h3>Musadhique KP</h3>
-	            <p>Marketing Lead</p>
-	        </div>
-        </div>
+              
         
                 <div class="card">
             <div class="image-block">
@@ -101,16 +83,7 @@ include "../common/header.php"; ?>
 	            <p>Marketing Associate</p>
 	        </div>
         </div>
-           <div class="card">
-            <div class="image-block">
-                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Anish_Muhamed.jpg" alt="Anish_Muhamed"  height="600" width="500"/>
-            </div>
-            <div class="content-block">
-             <h3>Anish Muhamed</h3>
-	            <p>Creative Lead</p>
-	            
-	        </div>
-        </div>      
+              
     </div>
 </section>
 
