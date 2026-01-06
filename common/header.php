@@ -53,7 +53,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@24.6.0/build/css/intlTelInput.css">
     <link rel="icon" type="image/png" sizes="50x50" href="<?php echo $BASE_URL;?>/assets/images/favicon.png">
 
-    Google Analytic Code:
 <!-- Google tag (gtag.js) --> 
  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GC536FHVEB"></script> 
  <script> window.dataLayer = window.dataLayer || [];
@@ -61,7 +60,7 @@
  gtag('js', new Date()); 
  gtag('config', 'G-GC536FHVEB'); 
  </script>
- 
+
 </head>
 
 <body>

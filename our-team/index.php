@@ -1,6 +1,6 @@
 <?php  
-$pageTitle = "MaxwellOS – Leading IT company in Qatar | Reliable Tech & Support";
-$metaDescription = "MaxwellOS delivers IT and digital solutions in Qatar, including digital marketing, web and app development, SEO, SMM, branding, e-commerce, PRO and ERP services.";
+$pageTitle = "Meet the Maxwell OS Team | Leadership & Experts";
+$metaDescription = "Meet the experienced leadership and technical experts behind Maxwell OS. Our team is dedicated to innovation, security, and building the future of operating systems.";
 $canonicalUrl = "https://www.maxwellos.com/our-team/";
 
 include "../common/header.php"; ?>

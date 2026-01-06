@@ -1,5 +1,11 @@
 <?php 
-include '../common/config.php';
+$pageTitle = "Maxwell OS Privacy Policy – Data Protection & User Privacy";
+$metaDescription = "Maxwell OS's Privacy Policy details how we collect, protect, and use your data. Learn about your privacy rights and our compliance with global data protection standards.";
+
+$canonicalUrl = "https://www.maxwellos.com/privacy/";
+
+
+include "../common/header.php"; 
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -7,7 +13,7 @@ include '../common/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.maxwellos.com/privacy/" />
+    <!-- <link rel="canonical" href="https://www.maxwellos.com/privacy/" /> -->
     <title>Maxwell Online Service</title>
     <link rel="shortcut icon" type="image/png" href="<?php echo $BASE_URL;?>./assets/images/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,12 +24,14 @@ include '../common/config.php';
     <link rel="stylesheet" href="<?php echo $BASE_URL;?>./assets/styles/owl.carousel.min.css">
     <link rel="stylesheet" href="<?php echo $BASE_URL;?>./assets/styles/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@24.6.0/build/css/intlTelInput.css">
-    <link rel="icon" type="image/png" sizes="50x50" href="<?php echo $BASE_URL;?>./assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="50x50" href="<?php echo $BASE_URL;?>./assets/images/favicon.png"/>
+
+
 </head>
 
 <body>
 
-        <div class="row-flex ai-c jc-sb">
+        <!-- <div class="row-flex ai-c jc-sb">
             <div class="left row-flex ai-c jc-s">
                 <div class="logo">
                     <a href="<?php echo $BASE_URL;?>../"><img src="<?php echo $BASE_URL;?>./assets/images/logo.webp" alt="logo" height="100" width="341" /></a>
@@ -31,13 +39,13 @@ include '../common/config.php';
             </div>
          
 
-        </div>
+        </div> -->
 
   
-      <main>
+      <main style="padding-top: var(--header-height);">
    
 <ul class="arrow-points">
-    <strong>Maxwell Online Services Terms and Conditions. </strong><br/>
+    <h1>Maxwell Online Services Terms and Conditions. </h1>
 <li>1. Introduction<br/>
 Welcome to Maxwell Online Services! These terms and conditions outline the rules and regulations for the use of our software services provided by Maxwell Online Services, located in Qatar.</li>
 <li>2. Definitions<br/>
@@ -104,4 +112,5 @@ integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="ano
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js" integrity="sha512-/bOVV1DV1AQXcypckRwsR9ThoCj7FqTV2/0Bm79bL3YSyLkVideFLE3MIZkq1u5t28ke1c0n31WYCOrO01dsUg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@24.6.0/build/js/intlTelInput.min.js"></script>
 </script>
+<?php  include "../common/footer.php"; ?>
 </html>
