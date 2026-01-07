@@ -32,6 +32,13 @@ if(isset($PAGE) && $PAGE=='contact-us'){
         order:-1;
         
     }
+
+    .left-info{
+        order:2;
+    }
+     .right-form{
+        order:1;
+    }
   }
 </style>
 
@@ -40,13 +47,8 @@ if(isset($PAGE) && $PAGE=='contact-us'){
 <section id="contact" class="<?php echo $class;?>"  >    
 <div class="row-flex same m-col-flex gap-5vw ">
     
-    <div class="left col-flex gap-5vw">
-        <div class="col-flex ">
-            <div class="row-flex ai-c jc-sb section-title-block">
-                <h2>Get In <br><strong>Touch</strong></h2>
-                <!-- <a  href="/services" class="row-flex ai-c jc-e gap-1 view-all">Explore <img src="./assets/images/arrow.png" alt="arrow"></a> -->
-            </div>
-        </div>
+    <div class="left col-flex gap-5vw left-info">
+       
         <div class="col-flex">
             <div class="col-flex info-block">
                 <div class="row-flex gap-1 jc-s">
@@ -90,7 +92,13 @@ if(isset($PAGE) && $PAGE=='contact-us'){
     </div>
     </div>
     </div>
-    <div class="right col-flex ">
+    <div class="right col-flex right-form">
+         <div class="col-flex ">
+            <div class="row-flex ai-c jc-sb section-title-block">
+                <h2>Get In <br><strong>Touch</strong></h2>
+                <!-- <a  href="/services" class="row-flex ai-c jc-e gap-1 view-all">Explore <img src="./assets/images/arrow.png" alt="arrow"></a> -->
+            </div>
+        </div>
         <form id="contactForm" class="col-flex default" action="<?php echo $BASE_URL;?>form/contact.php" method="post">
             <div class="input-group">
                 <input type="text" id="name"  name="name" placeholder="Name *" required="" class="form-field-validate" data-validate="onlyalphabets|minchars_3" data-required="true">

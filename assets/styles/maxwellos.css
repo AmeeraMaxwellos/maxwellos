@@ -1375,10 +1375,10 @@ form *:not(button).row-flex{
   text-align: center;
 }
 section h2, section h2 strong{
-  font-size: 1.5rem;
+  /* font-size: 1.5rem; */
 }
 h2 strong::after,h2.center-flex strong::before{
-  content: none;
+  /* content: none; */
 }
 .section-title-block a.view-all{
   font-size: 1rem;
