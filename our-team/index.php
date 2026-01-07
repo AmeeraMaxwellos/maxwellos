@@ -46,18 +46,18 @@ include "../common/header.php"; ?>
 	            <p>Tech Project Manager</p>
 	        </div>
         </div>
-         
-                <div class="card">
+
+             <div class="card">
             <div class="image-block">
-                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Rashid.jpg" alt="Rashid"  height="600" width="500"/>
+                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/jeseel.jpg" alt="Ameera"  height="600" width="500"/>
             </div>
-            
             <div class="content-block">
             
-	            <h3>Muhammed Rashid</h3>
-	            <p>Marketing Associate</p>
+	            <h3>Mohammed Jeseel</h3>
+	            <p>Digital Marketing Manager & Graphic Designer</p>
 	        </div>
         </div>
+         
         
                 <div class="card">
             <div class="image-block">
