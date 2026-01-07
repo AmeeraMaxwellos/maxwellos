@@ -1,6 +1,7 @@
 <?php
 // MAMP uses port 8888
 $BASE_URL = 'http://localhost:8888/maxwellos-web/';
+// $BASE_URL = 'https://www.maxwellos.com/';
 
 // FIX: Changed REQUEST_URL to REQUEST_URI
 $path = explode('/', $_SERVER['REQUEST_URI']);
