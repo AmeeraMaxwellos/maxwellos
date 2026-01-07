@@ -4,7 +4,7 @@ if(isset($PAGE) && $PAGE=='contact-us'){
  $class="full-height"; 
 }
 ?>
-<section id="contact" class="<?php echo $class;?>" >
+<section id="contact" class="<?php echo $class;?>" style="margin-top:2rem" >
 <div class="row-flex same m-col-flex gap-5vw ">
     <div class="left col-flex gap-5vw">
         <div class="col-flex ">
