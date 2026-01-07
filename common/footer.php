@@ -4,8 +4,42 @@ if(isset($PAGE) && $PAGE=='contact-us'){
  $class="full-height"; 
 }
 ?>
-<section id="contact" class="<?php echo $class;?>" style="margin-top:2rem" >
+
+
+<style type="text/css">
+        .map-container{ 
+        width:90%;
+        margin: 1rem 2rem 0 0; 
+        border-radius: 1rem; 
+        overflow: hidden; 
+        box-shadow: 0px 0px 0px 0px #0000009e
+
+        }
+        section#contact{
+        margin-top:2rem;
+    }
+  
+  @media screen and (max-width: 781px) {
+    
+    .map-container{ 
+      margin-right: 0;
+      width: 100%;
+    }
+    section#contact{
+        margin-top:0;
+    }
+      .info-block{
+        order:-1;
+        
+    }
+  }
+</style>
+
+
+
+<section id="contact" class="<?php echo $class;?>"  >    
 <div class="row-flex same m-col-flex gap-5vw ">
+    
     <div class="left col-flex gap-5vw">
         <div class="col-flex ">
             <div class="row-flex ai-c jc-sb section-title-block">
@@ -42,7 +76,7 @@ if(isset($PAGE) && $PAGE=='contact-us'){
                     </div>
                 </div>
             </div>
-            <div class="map-container" style="width:90%;margin: 1rem 2rem 0 0; border-radius: 1rem; overflow: hidden; box-shadow: 0px 0px 0px 0px #0000009e">
+            <div class="map-container">
         <iframe 
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.017915118663!2d51.5437786!3d25.2891872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45c50e42972dcd%3A0x8c30e809dcb926e6!2sMaxwell%20Online%20Service!5e0!3m2!1sen!2s!4v169876543210!5m2!1sen!2s"
             width="100%" 
@@ -54,7 +88,7 @@ if(isset($PAGE) && $PAGE=='contact-us'){
             title="Maxwell Online Service Office Location">
         </iframe>
     </div>
-        </div>
+    </div>
     </div>
     <div class="right col-flex ">
         <form id="contactForm" class="col-flex default" action="<?php echo $BASE_URL;?>form/contact.php" method="post">
