@@ -250,7 +250,26 @@ include "common/header.php";
                 </div>
             </div>
         </section>
-       
+        
+    <section id="contact-map" class="c-pad-y bg-l-grey">
+    <div class="row-flex ai-c jc-sb section-title-block m-col-flex gap-2">
+        <h2>Find <br><strong>Our Office</strong></h2>
+    </div>
+    
+    <div class="map-container" style="margin-top: 2rem; border-radius: 1rem; overflow: hidden; box-shadow: 0px 0px 15px 0px #0000001a;">
+        <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.017915118663!2d51.5437786!3d25.2891872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45c50e42972dcd%3A0x8c30e809dcb926e6!2sMaxwell%20Online%20Service!5e0!3m2!1sen!2s!4v169876543210!5m2!1sen!2s"
+            width="100%" 
+            height="450" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Maxwell Online Service Office Location">
+        </iframe>
+    </div>
+    
+</section>
 
 <script type="application/ld+json">
 {
