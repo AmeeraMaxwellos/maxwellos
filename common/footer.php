@@ -42,6 +42,18 @@ if(isset($PAGE) && $PAGE=='contact-us'){
                     </div>
                 </div>
             </div>
+            <div class="map-container" style="width:90%;margin: 1rem 2rem 0 0; border-radius: 1rem; overflow: hidden; box-shadow: 0px 0px 0px 0px #0000009e">
+        <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.017915118663!2d51.5437786!3d25.2891872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45c50e42972dcd%3A0x8c30e809dcb926e6!2sMaxwell%20Online%20Service!5e0!3m2!1sen!2s!4v169876543210!5m2!1sen!2s"
+            width="100%" 
+            height="250" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Maxwell Online Service Office Location">
+        </iframe>
+    </div>
         </div>
     </div>
     <div class="right col-flex ">
