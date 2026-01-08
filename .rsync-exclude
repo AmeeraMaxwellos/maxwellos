@@ -1,0 +1,13 @@
+cat > .rsync-exclude << 'EOF'
+node_modules/
+.git/
+.env
+*.log
+.DS_Store
+vendor/
+composer.lock
+assets/uploads/*   # Don't overwrite uploaded files
+config/database.php  # If you have specific config
+tmp/
+cache/
+EOF

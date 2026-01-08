@@ -49,7 +49,7 @@ include "../common/header.php"; ?>
 
              <div class="card">
             <div class="image-block">
-                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/jeseel.jpg" alt="Ameera"  height="600" width="500"/>
+                <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/team/Jeseel.jpg" alt="Jeseel"  height="600" width="500"/>
             </div>
             <div class="content-block">
             
