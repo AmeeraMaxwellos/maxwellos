@@ -1,0 +1,30 @@
+CREATE TABLE `contact` (
+    `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    `name` VARCHAR(100) NOT NULL,
+    `email` VARCHAR(150) NOT NULL,
+    `countrycode` VARCHAR(10) DEFAULT NULL,
+    `phonenumber` VARCHAR(20) DEFAULT NULL,
+    `companyname` VARCHAR(150) DEFAULT NULL,
+    `service` VARCHAR(100) DEFAULT NULL,
+    `subject` VARCHAR(200) DEFAULT NULL,
+    `message` TEXT,
+    `date_added` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+CREATE TABLE `career` (
+    `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    `name` VARCHAR(100) NOT NULL,
+    `email` VARCHAR(150) NOT NULL,
+    `countrycode` VARCHAR(10) DEFAULT NULL,
+    `phonenumber` VARCHAR(20) DEFAULT NULL,
+    `country` VARCHAR(100) DEFAULT NULL,
+    `experience` VARCHAR(50) DEFAULT NULL,
+    `jobtype` VARCHAR(50) DEFAULT NULL,
+    `jobcategory` VARCHAR(100) DEFAULT NULL,
+    `coverletter` TEXT,
+    `resume` VARCHAR(255) DEFAULT NULL,
+    `date_added` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
