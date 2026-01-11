@@ -30,9 +30,9 @@ ini_set('display_errors', 1);
 // $UPLOAD_PATH = $BASE_PATH.'/assets/uploads/';
 
 $HOST = "195.179.239.116";
-$DB_USER = "u508573443_maxwellos";
+$DB_USER = "u508573443_maxwellos_1";
 $DB_PWD = "!Kf]*Gr?6Zr";
-$DB_NAME = "u508573443_maxwellos";
+$DB_NAME = "u508573443_maxwellos_1";
 
 
 ?>
