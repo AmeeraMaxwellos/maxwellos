@@ -69,7 +69,7 @@ Let MaxwellOS be your partner in success, delivering innovative and results-driv
 	            <h3>Search Engine Optimization (SEO)</h3>
 	            <p>Improve your online visibility and rank higher on search engines, driving more organic traffic to your site.</p>
 	            <div class="read-more txt-right">
-	                			<a class="btn row-flex-inline gap-1 " href="<?php echo $BASE_URL;?>/services/seo/index.php" >Get Started 
+	                			<a class="btn row-flex-inline gap-1 " href="<?php echo $BASE_URL;?>services/seo" >Get Started 
 <svg width="29" height="13" viewBox="0 0 29 13" fill="none" xmlns="http://www.w3.org/2000/svg">
 <line x1="22.3143" y1="0.527867" x2="28.4757" y2="6.74628" stroke="black" stroke-width="1.34123"/>
 <line x1="28.4764" y1="6.03109" x2="22.3149" y2="12.2495" stroke="black" stroke-width="1.34123"/>
