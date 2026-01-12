@@ -1,7 +1,7 @@
 <?php
 // MAMP uses port 8888
-// $BASE_URL = 'http://localhost:8888/maxwellos-web/';
-$BASE_URL = 'https://www.maxwellos.com/';
+$BASE_URL = 'http://localhost:8888/maxwellos-web/';
+// $BASE_URL = 'https://www.maxwellos.com/';
 
 $path = explode('/', $_SERVER['REQUEST_URI']);
 $PAGE = $path[count($path) - 2];

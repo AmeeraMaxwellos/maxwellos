@@ -95,7 +95,8 @@ if(isset($PAGE) && $PAGE=='contact-us'){
     <div class="right col-flex right-form">
          <div class="col-flex ">
             <div class="row-flex ai-c jc-sb section-title-block">
-                <h2>Get In <br><strong>Touch</strong></h2>
+                <h1 class="heading-style">Get In <br><strong class="heading-style">Touch</strong></h1>
+                <!-- <h2>Get In <br><strong>Touch</strong></h2> -->
                 <!-- <a  href="/services" class="row-flex ai-c jc-e gap-1 view-all">Explore <img src="./assets/images/arrow.png" alt="arrow"></a> -->
             </div>
         </div>
