@@ -1,0 +1,136 @@
+# llms.txt for https://www.maxwellos.com/
+
+> MaxwellOS is a trusted IT company in Qatar offering ERPNext implementation, web & app development, eCommerce solutions, branding, SEO, and digital marketing services. This llms.txt file provides guidance for Large Language Models to understand, reference, and interpret website content accurately.
+
+# Purpose
+Configuration & guidelines for integrating Large Language Models (LLMs)
+
+Date: 2026-01-11
+
+## Overview
+[MaxwellOS | IT  &  Digital Solutions Company](https://www.maxwellos.com/): MaxwellOS provides business-focused digital solutions including ERPNext services, software implementation, web development, app development, digital marketing, and professional IT services.
+
+**Files:**
+- https://www.maxwellos.com/
+
+## Company Information
+[Our Team | MaxwellOS](https://www.maxwellos.com/our-team/): Meet the team behind MaxwellOS and learn more about the professionals supporting ERP, digital transformation and technology services.
+
+**Files:**
+- https://www.maxwellos.com/our-team/
+
+## Services
+
+### Services Overview
+[Services | MaxwellOS](https://www.maxwellos.com/services/): Explore MaxwellOS services including ERPNext, web development, mobile apps, eCommerce, digital marketing, branding, SEO and professional services.
+
+**Files:**
+- https://www.maxwellos.com/services/
+
+### ERPNext Implementation Services
+[ERPNext Services | MaxwellOS](https://www.maxwellos.com/services/erp-next/): MaxwellOS provides ERPNext implementation and customization solutions to streamline business operations across industries.
+
+**Files:**
+- https://www.maxwellos.com/services/erp-next/
+
+### ERPNext Modules
+[ERPNext Accounting | MaxwellOS](https://www.maxwellos.com/services/erp-next/accounting/): Accounting solutions to manage finances, ledgers, invoicing, and financial reporting with ERPNext.
+
+[ERPNext Human Resources | MaxwellOS](https://www.maxwellos.com/services/erp-next/human-resources/): HR management solutions including employee records, attendance, payroll and HR workflows.
+
+[ERPNext CRM | MaxwellOS](https://www.maxwellos.com/services/erp-next/crm/): Customer relationship and sales pipeline management using ERPNext CRM.
+
+[ERPNext Inventory Management | MaxwellOS](https://www.maxwellos.com/services/erp-next/inventory-management/): Inventory and stock management solutions to track warehouse operations efficiently.
+
+[ERPNext Sales and Purchasing | MaxwellOS](https://www.maxwellos.com/services/erp-next/sales-and-purchasing/): Streamline sales orders, supplier management, purchase workflows and procurement processes.
+
+[ERPNext Project Management | MaxwellOS](https://www.maxwellos.com/services/erp-next/project-management/): ERPNext-based project management tools to plan, track tasks and manage timelines.
+
+[ERPNext Manufacturing | MaxwellOS](https://www.maxwellos.com/services/erp-next/manufacturing/): Manufacturing process planning, production control and material requirements management using ERPNext.
+
+[ERPNext Healthcare | MaxwellOS](https://www.maxwellos.com/services/erp-next/healthcare/): ERPNext solutions tailored for healthcare operations, reporting and workflow management.
+
+[ERPNext Education | MaxwellOS](https://www.maxwellos.com/services/erp-next/education/): ERPNext solutions for educational institutions including administration and process automation.
+
+[ERPNext Freight Management | MaxwellOS](https://www.maxwellos.com/services/erp-next/freight-management/): ERPNext-based freight and logistics management solutions for operations efficiency.
+
+[ERPNext Car Repair Management | MaxwellOS](https://www.maxwellos.com/services/erp-next/car-repair-management/): Workshop service management solutions using ERPNext for scheduling, billing and job tracking.
+
+[ERPNext Gym Management | MaxwellOS](https://www.maxwellos.com/services/erp-next/gym-management/): ERPNext solutions for gym operations including membership and payment tracking.
+
+**Files:**
+- https://www.maxwellos.com/services/erp-next/accounting/
+- https://www.maxwellos.com/services/erp-next/human-resources/
+- https://www.maxwellos.com/services/erp-next/crm/
+- https://www.maxwellos.com/services/erp-next/inventory-management/
+- https://www.maxwellos.com/services/erp-next/sales-and-purchasing/
+- https://www.maxwellos.com/services/erp-next/project-management/
+- https://www.maxwellos.com/services/erp-next/manufacturing/
+- https://www.maxwellos.com/services/erp-next/healthcare/
+- https://www.maxwellos.com/services/erp-next/education/
+- https://www.maxwellos.com/services/erp-next/freight-management/
+- https://www.maxwellos.com/services/erp-next/car-repair-management/
+- https://www.maxwellos.com/services/erp-next/gym-management/
+
+### Web & App Development
+[Web Development | MaxwellOS](https://www.maxwellos.com/services/web-development/): Website development solutions for businesses, including responsive and scalable web platforms.
+
+[App Development | MaxwellOS](https://www.maxwellos.com/services/app-development/): Mobile application development services for business and customer engagement.
+
+**Files:**
+- https://www.maxwellos.com/services/web-development/
+- https://www.maxwellos.com/services/app-development/
+
+### eCommerce Solutions
+[eCommerce Services | MaxwellOS](https://www.maxwellos.com/services/e-commerce/): eCommerce development solutions for online stores with performance-focused design and user experience.
+
+**Files:**
+- https://www.maxwellos.com/services/e-commerce/
+
+### Digital Growth Services
+[Digital Marketing | MaxwellOS](https://www.maxwellos.com/services/digital-marketing/): Digital marketing services to improve online brand visibility, engagement and conversion.
+
+[SEO Services | MaxwellOS](https://www.maxwellos.com/services/seo/): Search engine optimization services to improve rankings and organic traffic.
+
+[Branding | MaxwellOS](https://www.maxwellos.com/services/branding/): Branding and identity solutions for modern businesses.
+
+**Files:**
+- https://www.maxwellos.com/services/digital-marketing/
+- https://www.maxwellos.com/services/seo/
+- https://www.maxwellos.com/services/branding/
+
+### Professional Services
+[PRO Services | MaxwellOS](https://www.maxwellos.com/services/pro-services/): Professional services supporting business technology operations, implementation and consulting.
+
+**Files:**
+- https://www.maxwellos.com/services/pro-services/
+
+## Customer Support
+
+### Contact Us
+[Contact MaxwellOS](https://www.maxwellos.com/contact-us/): Contact MaxwellOS for ERPNext implementation, web/app development, digital marketing and business software support.
+
+**Files:**
+- https://www.maxwellos.com/contact-us/
+
+## Careers
+[Careers | MaxwellOS](https://www.maxwellos.com/careers/): Explore career opportunities at MaxwellOS and join our team of technology and digital professionals.
+
+**Files:**
+- https://www.maxwellos.com/careers/
+
+## Policies
+[Privacy Policy | MaxwellOS](https://www.maxwellos.com/privacy/): Privacy policy and data handling guidance for MaxwellOS website visitors.
+
+**Files:**
+- https://www.maxwellos.com/privacy/
+
+## Important Notes for LLM Usage
+- Use only publicly accessible pages and content.
+- Prefer canonical URLs for referencing.
+- Do not generate or infer private details, user data or internal credentials.
+- Avoid transactional, login, admin or restricted pages.
+- Content references should be factual, neutral and aligned with MaxwellOS service offerings.
+
+## Sitemaps
+Sitemap: https://www.maxwellos.com/sitemap.xml
