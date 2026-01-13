@@ -8,14 +8,31 @@ $canonicalUrl = "https://www.maxwellos.com/contact-us/";
 
   ?>
 <style type="text/css">
+
+  .main-contact-heading{
+          padding-top: calc(var(--header-height) + 10px);
+          display: flex;
+          justify-content: center;
+
+  }
   @media screen and (max-width: 781px) {
-    
+  
+
     main section#contact{ 
-      padding-top: calc(var(--header-height) + 50px);
+      /* padding-top: calc(var(--header-height) + 50px); */
+            /* padding-top: var(--header-height); */
+            margin:1rem 0;
+
     }
   }
 </style>
 
+
+<div class="col-flex main-contact-heading">
+            <div class="row-flex ai-c jc-sb contact-title">
+                <h1 class="heading-style">Get In <br><strong class="heading-style">Touch</strong></h1>
+            </div>
+        </div>
 
 <script type="application/ld+json">
 {

@@ -229,13 +229,13 @@ include "../common/header.php";
    <div class="highlights-list">
                 <div class="card card-bottom">
             <img src="<?php echo $BASE_URL;?>/assets/images/erp/consulting1.jpg" alt="Development" height="350" width="350">
-             <h2>Consulting</h2>
+             <h3>Consulting</h3>
             <p class="highlights-p">our expert communicates with the client to understand the client’s business objectives and organisation’s requirements by analysing the project</p>
         </div>
 
        <div class="card card-bottom">
             <img src="<?php echo $BASE_URL;?>/assets/images/erp/development1.jpg" alt="Development" height="350" width="350">
-            <h2>Development</h2>
+            <h3>Development</h3>
             <p class="highlights-p">Our development team is always set to commence the coding and implementation phase of the project.
 
 </p>
@@ -243,13 +243,13 @@ include "../common/header.php";
 
          <div class="card card-bottom">
             <img src="<?php echo $BASE_URL;?>/assets/images/erp/customization1.jpg" alt="Development" height="350" width="350">
-            <h2>Customization</h2>
+            <h3>Customization</h3>
             <p class="highlights-p">Our highly skilled and professional tech team is equipped to customize and meet all customer requirements.</p>
         </div>
     
         <div class="card card-bottom">
             <img src="<?php echo $BASE_URL;?>/assets/images/erp/implementation.jpg" alt="Development" height="350" width="350">
-            <h2>Implementation</h2>
+            <h3>Implementation</h3>
             <p class="highlights-p">The implementation phase translating specifications into functional output, integrating features, and ensuring the system operates seamlessly.
 
             </p>
@@ -257,13 +257,13 @@ include "../common/header.php";
         
        <div class="card card-bottom">
             <img src="<?php echo $BASE_URL;?>/assets/images/erp/support1.jpg" alt="Development" height="350" width="350">
-            <h2>Support</h2>
+            <h3>Support</h3>
             <p class="highlights-p">Tech team provides assistance to users in resolving technical issues, troubleshooting software or hardware problems, and ensuring smooth operation.</p>
         </div>
 
        <div class="card card-bottom">
             <img src="<?php echo $BASE_URL;?>/assets/images/erp/training.jpg" alt="Development" height="350" width="350">
-            <h2>Training</h2>
+            <h3>Training</h3>
             <p class="highlights-p">We offer comprehensive training for our clients to ensure they fully understand empowering them to maximize its benefits and enhance operational efficiency.</p>
         </div>
     </div>
