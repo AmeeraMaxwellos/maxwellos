@@ -24,6 +24,24 @@ include "common/header.php";
 
          
         </section>
+
+ <section id="services" class="col-flex gap-3">
+            <div class="row-flex ai-c jc-sb section-title-block">
+                <h2>About <br><strong>Us</strong></h2>
+                <!-- <a href="<?php echo $BASE_URL;?>services" class="row-flex ai-c jc-e gap-1 view-all">Explore <img
+                        src="<?php echo $BASE_URL;?>/assets/images/arrow.png" alt="arrow">
+                </a> -->
+            </div>
+
+            <h3>Who We Are</h3>
+            <p>MaxwellOS is a trusted IT solutions and digital marketing company in Qatar, delivering complete services in website design & development, ERPNext solutions, mobile app development, branding, SEO, and social media marketing.      
+As your technology growth partner, we help businesses build a strong online presence and smarter systems that save time and boost revenue. We work with both startups and established companies, taking the time to understand their goals and deliver custom digital solutions that strengthen their brand and produce real, measurable results.
+With a skilled in-house team and strong technical expertise, MaxwellOS ensures every project is delivered with quality, transparency, and long-term support.
+
+            </p>
+           
+        </section>
+
         <section id="services" class="col-flex gap-3">
             <div class="row-flex ai-c jc-sb section-title-block">
                 <h2>Our <br><strong>Services</strong></h2>
@@ -32,7 +50,9 @@ include "common/header.php";
                 </a> -->
             </div>
 
+            <p>At MaxwellOS, we help businesses in Qatar grow with simple, smart digital solutions. From ERPNext implementation and custom software to website design, branding, SEO, and digital marketing, we take care of everything you need to succeed online. Whether you’re just starting out or already established, we create tailored solutions that make your work easier, improve your online presence, and support long-term growth.</p>
             <div class="service-list">
+
                 <div class="card">
                     <div class="image-block">
                         <img class="img-responsive" src="<?php echo $BASE_URL;?>/assets/images/erp.webp" alt="ERP Next" />
@@ -133,7 +153,15 @@ include "common/header.php";
                 </div>
             </div>
         </section>
-        <section id="clients" class="no-pad c-pad-y">
+        
+        <!-- <section id="clients" class="col-flex gap-3 no-pad c-pad-y"> -->
+<section class="col-flex gap-3">
+           <div class="row-flex ai-l jc-sb section-title-block col-flex gap-3">
+                <h2>Major<br><strong>Clients</strong></h2>
+            </div>
+</section>
+                <section id="clients" class="no-pad c-pad-y">
+
             <div class="row-flex">
                 <div class="client-logos owl-theme owl-carousel" id="client-logos">
                     <div class="item">
@@ -170,6 +198,11 @@ include "common/header.php";
                 <h2>Why <br><strong>Choose Us?</strong></h2>
                 
             </div>
+            <p>
+                We go beyond delivering services - we focus on real, measurable results. With a skilled team, proven strategies, and client-first execution, MaxwellOS helps businesses build stronger brands, generate better leads, and scale efficiently.
+
+                </p>
+
             <div class="row-flex m-col-flex l-col-flex ai-c same gap-5vw">
                 <div class="left">
                     <img class="img-responsive" src="./assets/images/chooseus/whyindex.jpg" alt="about" />
@@ -249,6 +282,20 @@ include "common/header.php";
                     <p class="title">BRANCHES</p>
                 </div>
             </div>
+        </section>
+
+        
+
+         <section id="about" class="col-flex gap-3">
+            <div class="row-flex ai-c jc-sb section-title-block">
+                <h2>industries <br><strong>We Serve</strong></h2>
+                
+            </div>
+            <p>
+                We go beyond delivering services - we focus on real, measurable results. With a skilled team, proven strategies, and client-first execution, MaxwellOS helps businesses build stronger brands, generate better leads, and scale efficiently.
+
+                </p>
+
         </section>
         
     <!-- <section id="contact-map" class="c-pad-y bg-l-grey">
